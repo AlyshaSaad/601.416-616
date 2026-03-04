@@ -1,0 +1,17 @@
+sample:
+  description: IEEE 802.15.4 PHY Test Tool sample
+  name: IEEE 802.15.4 PHY Test Tool
+tests:
+  sample.peripheral.802154_phy_test:
+    build_only: true
+    integration_platforms:
+      - nrf52840dk/nrf52840
+      - nrf21540dk/nrf52840
+      - nrf5340dk/nrf5340/cpunet
+      - nrf54l15dk/nrf54l15/cpuapp
+    platform_allow: 
+      - nrf52840dk/nrf52840
+      - nrf21540dk/nrf52840
+      - nrf5340dk/nrf5340/cpunet
+      - nrf54l15dk/nrf54l15/cpuapp
+    tags: ci_build
