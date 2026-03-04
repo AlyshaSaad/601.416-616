@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab4/ble-central/build/ble-central/modules/trusted-firmware-m/CMakeFiles/tfm"
+		},
+		{
+			"file" : "/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab4/ble-central/build/ble-central/modules/trusted-firmware-m/CMakeFiles/tfm.rule"
+		},
+		{
+			"file" : "/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab4/ble-central/build/ble-central/modules/trusted-firmware-m/CMakeFiles/tfm-complete.rule"
+		},
+		{
+			"file" : "/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab4/ble-central/build/ble-central/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-build.rule"
+		},
+		{
+			"file" : "/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab4/ble-central/build/ble-central/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-configure.rule"
+		},
+		{
+			"file" : "/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab4/ble-central/build/ble-central/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-download.rule"
+		},
+		{
+			"file" : "/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab4/ble-central/build/ble-central/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-install.rule"
+		},
+		{
+			"file" : "/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab4/ble-central/build/ble-central/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-mkdir.rule"
+		},
+		{
+			"file" : "/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab4/ble-central/build/ble-central/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-patch.rule"
+		},
+		{
+			"file" : "/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab4/ble-central/build/ble-central/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"tfm"
+		],
+		"name" : "tfm"
+	}
+}

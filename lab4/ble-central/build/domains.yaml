@@ -1,0 +1,7 @@
+default: ble-central
+build_dir: /Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab4/ble-central/build
+domains:
+  - name: ble-central
+    build_dir: /Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab4/ble-central/build/ble-central
+flash_order:
+  - ble-central

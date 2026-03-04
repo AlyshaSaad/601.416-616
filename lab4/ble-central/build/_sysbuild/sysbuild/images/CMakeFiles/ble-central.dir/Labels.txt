@@ -1,0 +1,13 @@
+# Target labels
+ ble-central
+# Source files and their labels
+/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab4/ble-central/build/_sysbuild/sysbuild/images/CMakeFiles/ble-central
+/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab4/ble-central/build/_sysbuild/sysbuild/images/CMakeFiles/ble-central.rule
+/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab4/ble-central/build/_sysbuild/sysbuild/images/CMakeFiles/ble-central-complete.rule
+/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab4/ble-central/build/_sysbuild/sysbuild/images/ble-central-prefix/src/ble-central-stamp/ble-central-build.rule
+/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab4/ble-central/build/_sysbuild/sysbuild/images/ble-central-prefix/src/ble-central-stamp/ble-central-configure.rule
+/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab4/ble-central/build/_sysbuild/sysbuild/images/ble-central-prefix/src/ble-central-stamp/ble-central-download.rule
+/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab4/ble-central/build/_sysbuild/sysbuild/images/ble-central-prefix/src/ble-central-stamp/ble-central-install.rule
+/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab4/ble-central/build/_sysbuild/sysbuild/images/ble-central-prefix/src/ble-central-stamp/ble-central-mkdir.rule
+/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab4/ble-central/build/_sysbuild/sysbuild/images/ble-central-prefix/src/ble-central-stamp/ble-central-patch.rule
+/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab4/ble-central/build/_sysbuild/sysbuild/images/ble-central-prefix/src/ble-central-stamp/ble-central-update.rule
