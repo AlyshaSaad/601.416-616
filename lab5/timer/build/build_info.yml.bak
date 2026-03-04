@@ -1,0 +1,22 @@
+cmake:
+  board:
+    name: 'bl54l15_dvk'
+    path:
+     - '/opt/nordic/ncs/v3.2.1/zephyr/boards/ezurio/bl54l15_dvk'
+    qualifiers: 'nrf54l15/cpuapp/ns'
+    revision: ''
+  images:
+   - name: 'timer'
+     source-dir: '/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab5/timer'
+     type: 'MAIN'
+  kconfig:
+    files:
+     - '/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab5/timer/build/_sysbuild/empty.conf'
+     - '/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab5/timer/build/_sysbuild/empty.conf'
+    user-files:
+     - '/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab5/timer/build/_sysbuild/empty.conf'
+version: '0.1.0'
+west:
+  command: '/opt/nordic/ncs/toolchains/322ac893fe/bin/west build --build-dir /Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab5/timer/build /Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab5/timer --pristine --board bl54l15_dvk/nrf54l15/cpuapp/ns -- -DCONF_FILE=prj.conf -DDEBUG_THREAD_INFO=On -DCONFIG_DEBUG_THREAD_INFO=y -Dtimer_DEBUG_THREAD_INFO=On'
+  topdir: '/opt/nordic/ncs/v3.2.1'
+  version: '1.4.0'

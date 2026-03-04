@@ -1,0 +1,19 @@
+{
+  "toolchainPath": "/opt/nordic/ncs/toolchains/322ac893fe",
+  "sdkPath": "/opt/nordic/ncs/v3.2.1",
+  "board": "bl54l15_dvk/nrf54l15/cpuapp/ns",
+  "boardDir": "/opt/nordic/ncs/v3.2.1/zephyr/boards/ezurio/bl54l15_dvk",
+  "boardDirs": [
+    "/opt/nordic/ncs/v3.2.1/zephyr/boards/ezurio/bl54l15_dvk"
+  ],
+  "optimizations": "none",
+  "cmakeArgs": [],
+  "confFiles": [
+    "prj.conf"
+  ],
+  "buildDirectory": "build",
+  "kconfigFragments": [],
+  "snippets": [],
+  "dtcOverlays": [],
+  "extraDtcOverlays": []
+}

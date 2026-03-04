@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab5/timer/build/_sysbuild/sysbuild/images/CMakeFiles/timer"
+		},
+		{
+			"file" : "/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab5/timer/build/_sysbuild/sysbuild/images/CMakeFiles/timer.rule"
+		},
+		{
+			"file" : "/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab5/timer/build/_sysbuild/sysbuild/images/CMakeFiles/timer-complete.rule"
+		},
+		{
+			"file" : "/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab5/timer/build/_sysbuild/sysbuild/images/timer-prefix/src/timer-stamp/timer-build.rule"
+		},
+		{
+			"file" : "/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab5/timer/build/_sysbuild/sysbuild/images/timer-prefix/src/timer-stamp/timer-configure.rule"
+		},
+		{
+			"file" : "/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab5/timer/build/_sysbuild/sysbuild/images/timer-prefix/src/timer-stamp/timer-download.rule"
+		},
+		{
+			"file" : "/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab5/timer/build/_sysbuild/sysbuild/images/timer-prefix/src/timer-stamp/timer-install.rule"
+		},
+		{
+			"file" : "/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab5/timer/build/_sysbuild/sysbuild/images/timer-prefix/src/timer-stamp/timer-mkdir.rule"
+		},
+		{
+			"file" : "/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab5/timer/build/_sysbuild/sysbuild/images/timer-prefix/src/timer-stamp/timer-patch.rule"
+		},
+		{
+			"file" : "/Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab5/timer/build/_sysbuild/sysbuild/images/timer-prefix/src/timer-stamp/timer-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"timer"
+		],
+		"name" : "timer"
+	}
+}

@@ -1,0 +1,7 @@
+default: timer
+build_dir: /Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab5/timer/build
+domains:
+  - name: timer
+    build_dir: /Users/alyshasaad-berreta/Desktop/GitHub/601.416-616/lab5/timer/build/timer
+flash_order:
+  - timer
